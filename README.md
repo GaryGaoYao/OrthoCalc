@@ -7,4 +7,4 @@ This project is for the supplement for the six degrees of freedom measurement wo
 
 <br>For more info and license application, please email us:
 <br>gary.gaoy@outlook.com & yao.gao@kuleuven.be
-<br>cc: yi.sun@uzleuven.be
+<br>cc: yi.sun@uzleuven.be (team leader)
