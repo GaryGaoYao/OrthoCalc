@@ -3,6 +3,8 @@ This project is for the supplement for the six degrees of freedom measurement wo
 <br>Download link: 
 <br>https://drive.google.com/file/d/1bYgkle1uELzn0De_yuN27LsAS8lsElzw/view?usp=sharing
 
-<br>For more info, please email me:
-<br>gary.gaoy@outlook.com
+<br>[MeVisLab](https://www.mevislab.de/) is not free software, any group that would like to take advantage of ours has to require one valid license from us.
+
+<br>For more info and license application, please email us:
+<br>gary.gaoy@outlook.com & yao.gao@kuleuven.be
 <br>cc: yi.sun@uzleuven.be
